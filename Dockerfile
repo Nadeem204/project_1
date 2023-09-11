@@ -3,5 +3,5 @@
 
 # Maintainer 
   MAINTAINER "miannadeem7@gmail.com" 
-  COPY ./webapp.war /usr/local/tomcat/webapps
+  COPY ./webapp.war /usr/local/apache-tomcat-8.5.93/webapps
 
