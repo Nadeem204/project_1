@@ -1,6 +1,6 @@
 ### vi Dockerfile
 # Pull base image 
-From tomcat:jre-1.8.0 
+From tomcat:jre-1.8.0
 
 # Maintainer
 MAINTAINER "valaxytech" 
